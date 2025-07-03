@@ -21,3 +21,8 @@
 🌐 Frontend          💻 HTML | CSS | JavaScript | React | Tailwind
 📦 Backend/API       🧩 Node.js | Express | MongoDB
 🧰 Tools             🔧 Git | GitHub | VS Code | Azure | CI/CD
+```
+
+### Highlight Projects
+
+### Connect with me
