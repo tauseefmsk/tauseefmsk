@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Tauseef Shaikh
 
-<!--
-**tauseefmsk/tauseefmsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Software Developer | 💡 Power Platform Expert | 🛠️ Full-Stack Learner  
+🌍 Based in Bangalore | Remote-first | Freelance-curious
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+
+- ⚙️ Building apps with **PowerApps, Power Automate, SharePoint**
+- 📈 Exploring **Copilot Studio + API integration**
+- 📚 Mastering **JavaScript, React, Node.js**
+- 💼 Looking for opportunities to grow in **low-code + full-stack hybrid roles**
+
+---
+
+### 🧠 Tech Stack
+
+```bash
+🔷 Power Platform    ⚡ PowerApps | Power Automate | Power BI
+🌐 Frontend          💻 HTML | CSS | JavaScript | React | Tailwind
+📦 Backend/API       🧩 Node.js | Express | MongoDB
+🧰 Tools             🔧 Git | GitHub | VS Code | Azure | CI/CD
