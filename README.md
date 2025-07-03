@@ -23,6 +23,6 @@
 🧰 Tools             🔧 Git | GitHub | VS Code | Azure | CI/CD
 ```
 
-### Highlight Projects
+### 📁 Highlight Projects
 
-### Connect with me
+### 📧 Connect with me
